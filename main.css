@@ -1,0 +1,16 @@
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+.headerDesign {
+  text-align: center;
+  padding: 1%;
+  background-image: image();
+  font-size: 28px;
+}
+
+.bodyText {
+  font-size: 18px;
+  text-align: center;
+}
