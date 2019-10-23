@@ -17,6 +17,6 @@ body {
 
 .watermelonGrid {
   grid-row: auto;
-  width: 30%;
-  padding: 2%;
+  width: 28%;
+  padding: 2% 2%;
 }
