@@ -6,7 +6,7 @@ body {
 .headerDesign {
   text-align: center;
   padding: 1%;
-  background-image: image();
+  background-color: #eb5169;
   font-size: 28px;
 }
 
