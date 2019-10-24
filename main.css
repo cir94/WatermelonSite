@@ -15,6 +15,11 @@ body {
   text-align: center;
 }
 
+.listDesign {
+  text-align: center;
+  font-size: 22px;
+}
+
 .watermelonGrid {
   grid-row: auto;
   width: 28%;
